@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811965427671",
+    "project_id": "globetrotter-3cd3b",
+    "storage_bucket": "globetrotter-3cd3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811965427671:android:850c382027df127834a592",
+        "android_client_info": {
+          "package_name": "com.VRSCompany.GlobeTrotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811965427671-e45evad2un2mjkmo0c8qr9fdvcqfujvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWl8SXQMOnTZFZcXKK-5OHO3Ju7BzjQv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811965427671-e45evad2un2mjkmo0c8qr9fdvcqfujvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

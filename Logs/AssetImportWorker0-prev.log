@@ -1,0 +1,269 @@
+Unity Editor version:    2021.1.26f1 (6f076387c01d)
+Branch:                  2021.1/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.6 (Build 20G165)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/2021.1.26f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/vasu_patel/Desktop/Unity Project/GlobeTrotter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49423
+Successfully changed project path to: /Users/vasu_patel/Desktop/Unity Project/GlobeTrotter
+/Users/vasu_patel/Desktop/Unity Project/GlobeTrotter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 231.77 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.26f1 (6f076387c01d)
+[Subsystems] Discovering subsystems at path /Applications/Unity/2021.1.26f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/vasu_patel/Desktop/Unity Project/GlobeTrotter/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-11-01 21:32:08.937 Unity[691:9440] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2021-11-01 21:32:08.937 Unity[691:9440] Metal devices available: 1
+2021-11-01 21:32:08.937 Unity[691:9440] 0: Intel(R) UHD Graphics 617 (low power)
+2021-11-01 21:32:08.938 Unity[691:9440] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Initialize mono
+Mono path[0] = '/Applications/Unity/2021.1.26f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/2021.1.26f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/2021.1.26f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56691
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/2021.1.26f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/2021.1.26f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001814 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 136.64 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.555 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6556ms)
+		BeginReloadAssembly (71ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (737ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (371ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (137ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.064821 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/vasu_patel/Desktop/Unity Project/GlobeTrotter/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/vasu_patel/Desktop/Unity Project/GlobeTrotter/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 142.60 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.235 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2236ms)
+		BeginReloadAssembly (293ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1850ms)
+			LoadAssemblies (364ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (574ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (103ms)
+			SetupLoadedEditorAssemblies (614ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (143ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (328ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/2021.1.26f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3935 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 281.5 MB.
+System memory in use after: 281.3 MB.
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 4375.
+Total: 6.189980 ms (FindLiveObjects: 0.448485 ms CreateObjectMapping: 0.247756 ms MarkObjects: 5.074921 ms  DeleteObjects: 0.417383 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/ExternalDependencyManager/Editor/1.2.167/Google.PackageManagerResolver.dll
+  artifactKey: Guid(88bd9c8c77ed43338f241688f9c97106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager/Editor/1.2.167/Google.PackageManagerResolver.dll using Guid(88bd9c8c77ed43338f241688f9c97106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea0abea0e43a9c31a88222b83439f100') in 1.513955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.098383 seconds.
+  path: Assets/Firebase/Plugins/Firebase.TaskExtension.dll
+  artifactKey: Guid(f5d4069c578548ba9f199b46d61bf06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/Firebase.TaskExtension.dll using Guid(f5d4069c578548ba9f199b46d61bf06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390881a29c2a916ef87c15b7c1e74bd2') in 0.004790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.128677 seconds.
+  path: Assets/Firebase/Plugins/iOS/Firebase.App.dll
+  artifactKey: Guid(5f3feda1a91343759b7eb58a29b492b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/iOS/Firebase.App.dll using Guid(5f3feda1a91343759b7eb58a29b492b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6148e29b9286634e1e188571ba6d542a') in 0.004118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002211 seconds.
+  path: Assets/firebaseauth.cs
+  artifactKey: Guid(8a76170bd55704b59b7ba139b7298b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/firebaseauth.cs using Guid(8a76170bd55704b59b7ba139b7298b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca76acfd099a24f56502d43792418050') in 0.488051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043823 seconds.
+  path: Assets/ExternalDependencyManager/Editor/1.2.167/Google.JarResolver.dll
+  artifactKey: Guid(5b4582b32cf04e59b3a92a22b531bfd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager/Editor/1.2.167/Google.JarResolver.dll using Guid(5b4582b32cf04e59b3a92a22b531bfd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd62f72e08492a4f2cd8cce990dae22') in 0.001833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002227 seconds.
+  path: Assets/Firebase/Plugins/Google.MiniJson.dll
+  artifactKey: Guid(3ebb289656f1477fa263e62d36c6e329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/Google.MiniJson.dll using Guid(3ebb289656f1477fa263e62d36c6e329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ab8bdee8e6171bda1bc5145d0aeb93') in 0.001858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.107643 seconds.
+  path: Assets/Parse/Plugins/Unity.Compat.dll
+  artifactKey: Guid(015ef18e20f24535830f59eda9e70830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parse/Plugins/Unity.Compat.dll using Guid(015ef18e20f24535830f59eda9e70830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b42b1127124325ed50b53d0747778e') in 0.002280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021809 seconds.
+  path: Assets/Parse/Plugins/Unity.Tasks.dll
+  artifactKey: Guid(93324a471a6d44bb8297d17d8b191e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parse/Plugins/Unity.Tasks.dll using Guid(93324a471a6d44bb8297d17d8b191e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fde406e8ba45b0b952ceb08e8c93085') in 0.002564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012502 seconds.
+  path: Assets/Firebase/Plugins/Firebase.App.dll
+  artifactKey: Guid(7311924048bd457bac6d713576c952da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/Firebase.App.dll using Guid(7311924048bd457bac6d713576c952da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b34a0f1410b8965181540d4d889f2b') in 0.002044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.058577 seconds.
+  path: Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll
+  artifactKey: Guid(f895c38a10144a2190fcd0a62357adcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll using Guid(f895c38a10144a2190fcd0a62357adcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2eeb7378fc7d375200fa8081ef40b8') in 0.002205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026735 seconds.
+  path: Assets/ExternalDependencyManager/Editor/1.2.167/Google.IOSResolver.dll
+  artifactKey: Guid(487d7d4b088f42f8bf5bd0c2553e4ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager/Editor/1.2.167/Google.IOSResolver.dll using Guid(487d7d4b088f42f8bf5bd0c2553e4ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c4e97ecb70cbf0047a847c515ec5c0') in 0.001700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.060514 seconds.
+  path: Assets/Firebase/Editor/network_request.exe
+  artifactKey: Guid(d3cd5d0a941c4cdc8ab4b1b684b05191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Editor/network_request.exe using Guid(d3cd5d0a941c4cdc8ab4b1b684b05191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634eedcc62cb6ec0a5e17f2503614bc4') in 0.507458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007976 seconds.
+  path: Assets/Scenes/firebase.unity
+  artifactKey: Guid(313324b4bac8240f1b1903e9811b590b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/firebase.unity using Guid(313324b4bac8240f1b1903e9811b590b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af0519ba86b442e37671c2646f1af0b') in 0.002504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014313 seconds.
+  path: Assets/Firebase/Editor/Firebase.Editor.dll
+  artifactKey: Guid(9f2edbf81053418f879076c05f816dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Editor/Firebase.Editor.dll using Guid(9f2edbf81053418f879076c05f816dc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b16ce612a0acaf0488df75477010d1') in 0.004272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026351 seconds.
+  path: Assets/Firebase/Editor/generate_xml_from_google_services_json.exe
+  artifactKey: Guid(ae88c0972b7448b5b36def1716f1d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Editor/generate_xml_from_google_services_json.exe using Guid(ae88c0972b7448b5b36def1716f1d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f611cf26d9f413539cd8f47da80093d4') in 0.005008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012971 seconds.
+  path: Assets/ExternalDependencyManager/Editor/1.2.167/Google.VersionHandlerImpl.dll
+  artifactKey: Guid(6b34dbfb498f4c79b77494066d57610b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager/Editor/1.2.167/Google.VersionHandlerImpl.dll using Guid(6b34dbfb498f4c79b77494066d57610b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd8dc119be5ec4f66d65f45bad51570') in 0.006832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018506 seconds.
+  path: Assets/Firebase/Plugins/Firebase.Platform.dll
+  artifactKey: Guid(7d3eec03d7e241a48941e038118c5e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/Firebase.Platform.dll using Guid(7d3eec03d7e241a48941e038118c5e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc91aa50886f8437b4ccdde5e7e2f16') in 0.004342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009666 seconds.
+  path: Assets/Parse/Plugins/dotNet45/Unity.Compat.dll
+  artifactKey: Guid(3db0783b58c2429b9bc1f560ba323d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parse/Plugins/dotNet45/Unity.Compat.dll using Guid(3db0783b58c2429b9bc1f560ba323d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256154f85bded48d6d8bc33b9273b326') in 0.005880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003800 seconds.
+  path: Assets/Firebase/Plugins/iOS/Firebase.Auth.dll
+  artifactKey: Guid(d98038090b9740a08a3877529f9ea69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/iOS/Firebase.Auth.dll using Guid(d98038090b9740a08a3877529f9ea69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a823865d0421d705e54066219cce992') in 0.004435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004468 seconds.
+  path: Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll
+  artifactKey: Guid(bd18eee30834e4f71bded96fd14033a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll using Guid(bd18eee30834e4f71bded96fd14033a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cf412078057e011348a68b389aade4') in 0.004323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018164 seconds.
+  path: Assets/Firebase/Plugins/Firebase.Auth.dll
+  artifactKey: Guid(275bd6b96a28470986154b9a995e191c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Firebase/Plugins/Firebase.Auth.dll using Guid(275bd6b96a28470986154b9a995e191c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d72202553669fd7d7bfa0ba24e530f') in 0.004356 seconds 
